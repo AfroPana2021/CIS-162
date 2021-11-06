@@ -1,0 +1,13 @@
+
+body{background-color:palevioletred
+        }
+        Font family:veranda, Geneva, Sans-serif;
+Header { background-color:black}
+h1{color:bisque}
+nav> ul { line-height:3em;
+        list-style-type:none;
+        padding-left;}
+Section {background-color: rosybrown;
+        width:65%
+        font-size:12em;}
+Footer { background-color:violet;}
