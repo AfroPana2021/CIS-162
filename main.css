@@ -1,13 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+ul{ 
+list-style-type: none; 
+margin: 0;
+Padding:0;
+}
+ul li{ display: inline-block
+    
+}
+Body {background-color:#00FFFF;
+   
+    margin-left: auto;
+    margin-right: auto; 
+    width: 95%;
+    max-width:960px;
+    min-width:640px;}
 
-body{background-color:palevioletred
-        }
-        Font family:veranda, Geneva, Sans-serif;
-Header { background-color:black}
-h1{color:bisque}
-nav> ul { line-height:3em;
-        list-style-type:none;
-        padding-left;}
-Section {background-color: rosybrown;
-        width:65%
-        font-size:12em;}
-Footer { background-color:violet;}
+p{background: #F0FFFF;
+    text-align: center
+}
+h1{ background:#F0FFFF}
+h2{ background: #F0FFFF}
+/*floating Stlyes*/
+
+Header
+ {background-color:#F0FFFF}
+
+
+.h2{ 
+width:650px;
+float:left;
+ }
+
+.h1{  
+ width:650px;
+float:right;
+}
+
+<style>
+img {
+  width: 100%;
+}
+</style>
+
+
+
+Footer { 
+}
